@@ -6,3 +6,4 @@ This repo contains code i have coded across sites like Leetcode, Codechef etc.
 3. Hoop Jump - https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/HOOPS
 4. 2 Dishes - https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/MAX_DIFF
 5. Motivation - https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/IMDB
+6. Man of the match - https://www.codechef.com/problems/MATCH_ALK
